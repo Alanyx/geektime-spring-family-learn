@@ -1,6 +1,5 @@
 package geektime.spring.springbucks.waiter.model;
 
-import lombok.*;
 import org.hibernate.annotations.Type;
 import org.joda.money.Money;
 

@@ -1,7 +1,5 @@
 package geektime.spring.springbucks.waiter.model;
 
-import lombok.*;
-
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.List;
